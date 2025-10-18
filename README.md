@@ -1,6 +1,6 @@
 <!-- ✨ Header animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gabryel+Paiva!;Full+Stack+Engineer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Ideas+that+Learn+and+Evolve+💡" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Gabryel+Paiva!;Full+Stack+Engineer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Ideas+that+Learn+and+Evolve+💡" alt="Typing intro" />
 </h1>
 
 <h3 align="center">🚀 Software Engineer | Full Stack Developer | Systems Thinker</h3>
