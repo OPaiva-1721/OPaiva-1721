@@ -65,6 +65,4 @@
 </div>
 
 <!-- 🚀 Pequeno easter egg -->
-<p align="center">
-  <sub><em>“The code is strong with this one.” — Yoda, probably.</em></sub>
-</p>
+<p align="center"><em>"You either die a junior dev, or live long enough to become a senior."</em></p>
