@@ -1,20 +1,26 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0077B5;">Gabryel Paiva</span></h1>
-<h3 align="center">🚀 Software Engineer | Full Stack Developer | Tech Explorer</h3>
+<!-- ✨ Header animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gabryel+Paiva!;Full+Stack+Engineer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Ideas+that+Learn+and+Evolve+💡" alt="Typing intro" />
+</h1>
+
+<h3 align="center">🚀 Software Engineer | Full Stack Developer | Systems Thinker</h3>
 
 <p align="center">
-  <em>"Turning code into experiences — and bugs into opportunities."</em>
+  <em>"I don’t just write code — I engineer digital ecosystems that make sense."</em>
 </p>
 
 ---
 
-### 💡 Tech Stack
+<!-- ⚙️ Tech stack com efeito neon -->
+<h2 align="center">💡 Tech Arsenal</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,nodejs,flutter,py,rust,spring,mysql,postgresql,firebase,prisma,supabase" height="55" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,nodejs,flutter,py,rust,spring,mysql,postgresql,firebase,prisma,supabase&theme=dark" height="55" alt="Tech Stack" />
 </div>
 
 ---
 
-### 🌐 Connect with me
+<!-- 🔗 Redes sociais com estilo e coerência visual -->
+<h2 align="center">🌐 Connect with me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/gabryel-paiva-17a21g" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
@@ -22,30 +28,43 @@
   <a href="https://wa.me/5544998727549" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
-  <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  <a href="https://instagram.com/seu_usuario_aqui" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:gabryelpaiva123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </div>
 
 ---
 
-### 🔥 GitHub Stats
+<!-- 📊 Estatísticas -->
+<h2 align="center">🔥 GitHub Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=OPaiva-1721&theme=dracula&hide_border=false&border_radius=6" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=OPaiva-1721&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OPaiva-1721&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&rank_icon=github" height="160" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=OPaiva-1721&theme=tokyonight&hide_border=false&border_radius=8" height="160" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 👾 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph.svg">
-</picture>
+<!-- 👾 Pacman graph -->
+<h2 align="center">👾 My GitHub Activity</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
+<!-- 💬 Mensagem final -->
 <div align="center">
-  <i>💬 Let's build something that makes the future a bit more intelligent.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&color=00FFBB&lines=Let's+build+the+future+bit+by+bit+💬" alt="Ending message" />
 </div>
+
+<!-- 🚀 Pequeno easter egg -->
+<p align="center">
+  <sub><em>“The code is strong with this one.” — Yoda, probably.</em></sub>
+</p>
