@@ -28,7 +28,7 @@
   <a href="https://wa.me/5544998727549" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
-  <a href="https://instagram.com/seu_usuario_aqui" target="_blank">
+  <a href="https://instagram.com/o_paiva06/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="mailto:gabryelpaiva123@gmail.com" target="_blank">
