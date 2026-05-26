@@ -37,28 +37,6 @@
 </div>
 
 ---
-
-<!-- 📊 Estatísticas -->
-<h2 align="center">🔥 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OPaiva-1721&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&rank_icon=github" height="160" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=OPaiva-1721&theme=tokyonight&hide_border=false&border_radius=8" height="160" alt="GitHub Streak"/>
-</div>
-
----
-
-<!-- 👾 Pacman graph -->
-<h2 align="center">👾 My GitHub Activity</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/OPaiva-1721/OPaiva-1721/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
 <!-- 💬 Mensagem final -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&color=00FFBB&lines=Let's+build+the+future+bit+by+bit+💬" alt="Ending message" />
