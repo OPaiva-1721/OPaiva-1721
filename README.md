@@ -14,7 +14,7 @@
 <!-- ⚙️ Tech stack com efeito neon -->
 <h2 align="center">💡 Tech Arsenal</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,php,dotnet,nextjs,react,nodejs,flutter,py,spring,mysql,postgresql&theme=dark" height="55" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,dotnet,nextjs,react,nodejs,flutter,py,spring,mysql,postgresql&theme=dark" height="55" alt="Tech Stack" />
 </div>
 
 ---
